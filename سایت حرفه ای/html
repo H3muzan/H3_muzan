@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سایت حرفه‌ای</title>
+    <link rel="stylesheet" href="css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">خودت میدونی</a></li>
+                <li><a href="#">بزن</a></li>
+                <li><a href="#">نزن</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="intro">
+            <h1>HO3in🩸حصین</h1>
+            <p>اینجاسایت منه ینی کلش مال منهههه😂😔.</p>
+            <a href="#" class="btn">خطر هک شدگی</a>
+        </section>
+        <section id="services">
+            <h2>بگا رفتی🥺🫵</h2>
+            <div class="service">
+                <h3>برادر فکر های بدی در سر دارد!🗿</h3>
+                <p>فکرشو بکن به کراشت لینکو بفرستی و تو سایت بهش اعتراف کنی:).</p>
+            </div>
+            <div class="service">
+                <h3>𝐓𝐞𝐥𝐥 𝐈𝐃 & 𝐈𝐧𝐬𝐭𝐚 𝐈𝐃</h3>
+                <p>@𝐇3_𝐌𝐮𝐳𝐚𝐧.</p><>>a href="https:/https/://www.instagram.com/h3_muzan target="_blank">صفحه اینستاگرام</a>
+            </div>
+        </section>
+    </main>
+<img src="photojadid.jpeg">
+alt="موحتاوا"
+    <footer>
+        <p>© 2024 سایت 𝐇𝐨3𝐢𝐧. همه حقوق محفوظ است.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
